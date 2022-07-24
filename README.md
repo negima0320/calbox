@@ -6,9 +6,9 @@
 git clone git@github.com:negima0320/calbox.git
 
 ## ビルド
-cd calbox
+cd calbox  
 docker-compose build
 
 ## 起動
-cd calbox
+cd calbox  
 docker-compose up
