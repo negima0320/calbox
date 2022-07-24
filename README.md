@@ -12,3 +12,6 @@ docker-compose build
 ## 起動
 cd calbox  
 docker-compose up
+
+## docker環境をbashで利用
+docker exec -it calbox_web_1 bash
